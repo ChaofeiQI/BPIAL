@@ -103,7 +103,8 @@ For other options, please check *config.py*.
 <img src="./assets/table4.PNG" width="1100">
 </p>
 
-
+## License & disclaimer
+The codes can be used for research purposes only. This package is strictly for non-commercial academic use only.
 
 ## Acknowledgments
 
