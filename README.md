@@ -110,12 +110,12 @@ The codes can be used for research purposes only. This package is strictly for n
 
 Our code refers the corresponding code publicly available:  [ICI](https://github.com/Yikai-Wang/ICI-FSL).
 
-
+<!--
+```
 ## Citation
 
 If you found the provided code useful, please cite our work.
-<!--
-```
+
 @InProceedings{Chaofei_2024_TMM,
     author    = {Chaofei Qi, Chao Ye, Weiyang Lin, Jianbin Qiu, Huijun Gao},
     title     = {Binocular Perception Instance Authentication Learning for Few-Shot Visual Recognition},
