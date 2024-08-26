@@ -107,7 +107,7 @@ For other options, please check *config.py*.
 
 ## Acknowledgments
 
-This code is based on [ICI](https://github.com/Yikai-Wang/ICI-FSL) and [CAN](https://github.com/blue-blue272/fewshot-CAN).
+Our code refers the corresponding code publicly available:  [ICI](https://github.com/Yikai-Wang/ICI-FSL).
 
 
 ## Citation
