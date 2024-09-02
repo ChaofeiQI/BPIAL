@@ -1,4 +1,7 @@
 # Binocular Perception Instance Authentication Learning for Few-Shot Visual Recognition
+![](https://img.shields.io/badge/Metal-earning-brightred)
+![](https://img.shields.io/badge/Few-shot-brightblue)
+![](https://img.shields.io/badge/Image-Classification-brightgray)
 ![](https://img.shields.io/badge/BPIAL-brightgreen)
 ![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.8.1-green)
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
