@@ -1,7 +1,7 @@
 # Binocular Perception Instance Authentication Learning for Few-Shot Visual Recognition
 ![](https://img.shields.io/badge/BPIAL-brightgreen)
-![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.7.1-green)
-![](https://img.shields.io/badge/Python-%3E%3Dv3.6-yellowgreen)
+![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.8.1-green)
+![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
 
 This repository contains the code for our paper "Binocular Perception Instance Authentication Learning for Few-Shot Visual Recognition". 
 <p align="center">
