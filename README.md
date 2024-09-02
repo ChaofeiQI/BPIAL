@@ -2,11 +2,9 @@
 ![](https://img.shields.io/badge/Meta-BPIAL-brightgreen)
 ![](https://img.shields.io/badge/Meta-Learning-brightred)
 ![](https://img.shields.io/badge/Few-Shot-brightblue)
-![](https://img.shields.io/badge/Image-Classification-brightgray)
+![](https://img.shields.io/badge/Visual-Recognition-brightgray)
 ![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.8.1-green)
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
-![](https://img.shields.io/badge/NVIDIA-555.52.04-yellowgreen)
-![](https://img.shields.io/badge/CUDA-12.5-yellowgreen)
 
 This repository contains the code for our paper "Binocular Perception Instance Authentication Learning for Few-Shot Visual Recognition". 
 <p align="center">
